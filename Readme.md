@@ -25,11 +25,12 @@ the quick brown fox jumps over the lazy dog.
 
 
 
-## 3.Write a Java program to reverse a string.  
+## 3.Write a Java program that takes a string and a number from the user,then prints the character in the given index.  
 ### Test Data:
-Input a string: The quick brown fox
+Input a string: Java Bootcamp
+Input a number: 1
 ### Expected Output:
-Reverse string: xof nworb kciuq ehT
+a
 
 
 ## 4.Write a Java program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd. (use if-statement) 
