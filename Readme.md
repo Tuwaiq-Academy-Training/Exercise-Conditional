@@ -28,6 +28,7 @@ the quick brown fox jumps over the lazy dog.
 ## 3.Write a Java program that takes a string and a number from the user,then prints the character in the given index.  
 ### Test Data:
 Input a string: Java Bootcamp
+
 Input a number: 1
 ### Expected Output:
 a
