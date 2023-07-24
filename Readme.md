@@ -77,7 +77,7 @@ The greatest: 87
 
 ## 8.Write a Java program that keeps a number from the user and generates an integer between 1 and 7 and displays the name of the weekday. 
 ### Test Data
-Input number: 3
+Input number: 4
 ### Expected Output:
 Wednesday
 
